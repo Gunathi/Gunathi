@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hansani Gunathilaka</h1>
 <h3 align="center">A passionate Computer Science Student from Sri Lanka</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif">
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYyYmMxODA3NDFmMjg1NDgyZWI2YzNmN2M5NDhhZjY0MjdlNzA5NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/11xBk5MoWjrYoE/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunathi&label=Profile%20views&color=0e75b6&style=flat" alt="gunathi" /> </p>
 
