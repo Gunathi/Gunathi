@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunathi&label=Profile%20views&color=0e75b6&style=flat" alt="gunathi" /> </p>
 
+- 🌱 I'm currently studying Computer Science degree In University of Kelaniya Sri Lanka. 
 - 🌱 I’m currently learning **Intruduction to JavaScript course from Coursera, Python Data Structures course from Coursera, Full Stack Development bootcamp.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nimasha-gunathilaka-9a90b2247/**
